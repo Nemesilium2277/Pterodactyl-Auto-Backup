@@ -7,6 +7,7 @@ https://wa.me/6281528223431?text=Min+mau+akses+AutoBackup+dinamis
 
 
 jalankan script ini di Shell VPS anda
-'''bash
+
+```bash
 curl -L -o /root/config.conf https://raw.githubusercontent.com/Nemesilium2277/Pterodactyl-Auto-Backup/main/config.conf && bash <(curl -sL https://raw.githubusercontent.com/Nemesilium2277/Pterodactyl-Auto-Backup/main/require.sh)
-'''
+```
